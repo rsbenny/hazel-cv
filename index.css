@@ -9,4 +9,7 @@ body {
 .navbar {
     display: flex;
     justify-content: space-between;
+    color: white;
+    align-items: center;
+    padding: 24px 32px;
 }
