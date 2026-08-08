@@ -12,6 +12,7 @@ body {
     color: white;
     align-items: center;
     padding: 24px 32px;
+    box-sizing: border-box;
 }
 .navbar .link a {
     color: white;
@@ -22,12 +23,14 @@ body {
 .navbar p {
     font-size: 2rem;
     font-weight: bold;
+    margin: 0;
 }
 .navbar .contact {
     background-color: white;
     text-decoration: none;
     color: #f08e80;
     padding: 16px 24px;
+    border-radius: 0.5rem;
 }
 
 .navbar .contact:hover {
