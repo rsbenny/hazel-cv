@@ -21,4 +21,5 @@ body {
 }
 .navbar p {
     font-size: 2rem;
+    font-weight: bold;
 }
