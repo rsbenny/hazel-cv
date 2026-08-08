@@ -13,10 +13,12 @@ body {
     align-items: center;
     padding: 24px 32px;
 }
-.navbar a {
+.navbar .link a {
     color: white;
     text-decoration: none;
     margin-right: 16px;
     font-size: 1.2rem;
-
+}
+.navbar p {
+    font-size: 2rem;
 }
