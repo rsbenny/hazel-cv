@@ -23,3 +23,13 @@ body {
     font-size: 2rem;
     font-weight: bold;
 }
+.navbar .contact {
+    background-color: white;
+    text-decoration: none;
+    color: #f08e80;
+    padding: 16px 24px;
+}
+
+.navbar .contact:hover {
+    opacity: 0.8;
+}
