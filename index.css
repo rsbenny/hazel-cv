@@ -6,3 +6,7 @@ body {
     background-color: #f08e80;
     height: 90vh;
 }
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
