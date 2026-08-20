@@ -6,7 +6,8 @@ body {
 .hero {
     background-color: #f08e80;
     color: white;
-    height: 90vh;
+    min-height: 90vh;
+    display: inline-block;
 }
 .navbar {
     display: flex;
