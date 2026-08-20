@@ -59,3 +59,9 @@ body {
     box-sizing: border-box;
     float: left;
 }
+
+.two-column-section .skills {
+    width: 50%;
+    box-sizing: border-box;
+    float: left;
+}
