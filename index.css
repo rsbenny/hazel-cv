@@ -67,3 +67,8 @@ body {
     padding: 0;
     list-style: none;
 }
+
+.two-column-section .skills li {
+    width: 50%;
+    float: left;
+}
