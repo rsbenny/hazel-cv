@@ -71,4 +71,5 @@ body {
 .two-column-section .skills li {
     width: 50%;
     float: left;
+    font-size: 1.25rem;
 }
