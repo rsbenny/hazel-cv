@@ -41,3 +41,10 @@ body {
 .hero-content {
     padding: 0 15%;
 }
+
+.tagline {
+    color: white;
+    font-size: 4.5rem;
+    letter-spacing: 2px;
+    padding: 32px 0;
+}
