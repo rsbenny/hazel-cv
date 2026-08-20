@@ -5,6 +5,7 @@ body {
 }
 .hero {
     background-color: #f08e80;
+    color: white;
     height: 90vh;
 }
 .navbar {
@@ -51,4 +52,10 @@ body {
 
 .two-column-section {
     font-size: 2rem;
+}
+
+.two-column-section p {
+    width: 50%;
+    box-sizing: border-box;
+    float: left;
 }
