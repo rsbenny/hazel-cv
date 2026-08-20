@@ -5,7 +5,9 @@ body {
 }
 .hero {
     background-color: #f08e80;
-    height: 90vh;
+    color: white;
+    min-height: 90vh;
+    display: inline-block;
 }
 .navbar {
     display: flex;
@@ -47,4 +49,29 @@ body {
     font-size: 4.5rem;
     letter-spacing: 2px;
     padding: 32px 0;
+}
+
+.two-column-section {
+    font-size: 2rem;
+}
+
+.two-column-section p {
+    width: 50%;
+    box-sizing: border-box;
+    float: left;
+}
+
+.two-column-section .skills {
+    width: 50%;
+    box-sizing: border-box;
+    float: left;
+    padding: 0;
+    list-style: none;
+}
+
+.two-column-section .skills li {
+    width: 50%;
+    float: left;
+    font-size: 1.25rem;
+    margin: 8px 0;
 }
