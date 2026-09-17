@@ -111,3 +111,8 @@ body {
 .blog-posts {
     margin-top: 24px;
 }
+
+.events-section {
+    background-color: #fdf0e5;
+    padding: 64px 0;
+}
