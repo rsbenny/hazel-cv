@@ -116,8 +116,14 @@ body {
     background-color: #fdf0e5;
     padding: 64px 0;
     display: inline-block;
+    width: 100%;
 }
 
 .events-content {
     padding: 0 15%;
+}
+
+.events-card {
+    width: 50%;
+    float: left;
 }
