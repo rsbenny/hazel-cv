@@ -85,7 +85,7 @@ body {
     padding: 0 15%;
 }
 
-.two-column-section .blog-post {
+.two-column-section .blog-posts {
     width: 50%;
     float: left;
 }
@@ -102,3 +102,7 @@ body {
     font-size: 0.9rem;
     color: grey;
 }
+
+.blog-posts p {
+    margin: 8px 0;
+}    
