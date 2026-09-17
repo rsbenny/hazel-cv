@@ -146,3 +146,17 @@ body {
     color: grey;
     margin-bottom: 32px;
 }
+
+footer {
+    background-color: black;
+    padding: 60px;
+}
+
+.footer-content {
+    text-align: center;
+}
+footer img {
+    width: 2rem;
+    height: 2rem;
+    margin: 0 8px;
+}
