@@ -115,4 +115,9 @@ body {
 .events-section {
     background-color: #fdf0e5;
     padding: 64px 0;
+    display: inline-block;
+}
+
+.events-content {
+    padding: 0 15%;
 }
