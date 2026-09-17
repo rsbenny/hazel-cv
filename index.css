@@ -55,7 +55,7 @@ body {
     font-size: 2rem;
 }
 
-.two-column-section p {
+.two-column-section > p {
     width: 50%;
     box-sizing: border-box;
     float: left;
@@ -79,4 +79,13 @@ body {
 .blog-section {
     background-color: white;
     padding: 64px 0;
+}
+
+.blog-content {
+    padding: 0 15%;
+}
+
+.two-column-section .blog-post {
+    width: 50%;
+    float: left;
 }
