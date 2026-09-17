@@ -135,3 +135,8 @@ body {
 .event-location {
     font-size: 1rem;
 }
+
+.event-date {
+    font-size: 0.9rem;
+    color: grey;
+}
