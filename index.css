@@ -127,3 +127,11 @@ body {
     width: 50%;
     float: left;
 }
+
+.event-title {
+    font-size: 1.5rem;
+}
+
+.event-location {
+    font-size: 1rem;
+}
