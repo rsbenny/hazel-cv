@@ -75,3 +75,8 @@ body {
     font-size: 1.25rem;
     margin: 8px 0;
 }
+
+.blog-section {
+    background-color: white;
+    padding: 64px 0;
+}
